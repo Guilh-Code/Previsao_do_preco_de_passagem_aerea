@@ -1,5 +1,7 @@
 # Projeto de Previsão do Preço de Passagens Aéreas
 
+**Acesse o código completo e a análise detalhada deste projeto diretamente no nosso [Jupyter Notebook](https://github.com/Guilh-Code/Previsao_do_preco_de_passagem_aerea/blob/main/projeto.ipynb).**
+
 ## ✈️ Visão Geral do Projeto
 
 Este projeto tem como objetivo principal **prever o preço de passagens aéreas** com base em diversas características dos voos. Utilizando um conjunto de dados real, desenvolvemos um modelo de Machine Learning capaz de identificar os fatores mais influentes nos preços e realizar previsões com **alta precisão**.
